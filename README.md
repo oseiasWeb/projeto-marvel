@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Personagens Marvel 🦸‍♂️</h1>
+<h1 align="center">Projeto Marvel 🦸‍♂️</h1>
 
 <p>Este projeto tem o objetivo de mostrar a tela de seleção de personagens do Universo Marvel em um "jogo de luta".</p>
 
