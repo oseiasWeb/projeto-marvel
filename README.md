@@ -18,7 +18,7 @@
 
 <h2 align="center">🔗 Link da página</h2>
 <p>Logo abaixo temos o link da página para visualização e testes:</p>
-👉 <a href="#" target="_blank">Iniciativa Vingadores</a><br><br>
+👉 <a href="https://oseiasweb.github.io/projeto-marvel/" target="_blank">Iniciativa Vingadores</a><br><br>
 
 <h2 align="center">🏆 Status Projeto</h2>
 <p align="center">
